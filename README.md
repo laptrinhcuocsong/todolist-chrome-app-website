@@ -1,6 +1,6 @@
 ## Power todolist chrome extension
 
-![todolist](images/todolist.jpg)
+![todolist](todolist.jpg)
 
 [Power todolist](https://chrome.google.com/webstore/detail/power-todolist/dnedcigokahlombhcaglbgkcpnbbpidm) là một tiện ích to do list mạnh mẽ dành cho trình duyệt Chrome.
 
