@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Hỗ trợ Power todolist
 
-You can use the [editor on GitHub](https://github.com/laptrinhcuocsong/todolist-chrome-app-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![todolist](todolist.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Power todolist](https://chrome.google.com/webstore/detail/power-todolist/dnedcigokahlombhcaglbgkcpnbbpidm) là một tiện ích to do list mạnh mẽ dành cho trình duyệt Chrome. Chỉ cần 1 click để tạo ra các ghi chú, việc cần làm, quản lý cuộc sống và công việc của bạn.
 
-### Markdown
+## Tính năng:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Giao diện hiện đại, dễ sử dụng.
+2. Đồng bộ hóa giữa các thiết bị
+3. Đơn giản và mạnh mẽ
 
-```markdown
-Syntax highlighted code block
+## Hỗ trợ:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laptrinhcuocsong/todolist-chrome-app-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mọi vấn đề về cách sử dụng, vui lòng đến [trang hỗ trợ](http://powertodolist.laptrinhcuocsong.com/help.html) hoặc gửi email về địa chỉ: phongcachmaytinh@gmail.com
