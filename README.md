@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Power todolist chrome extension
 
-You can use the [editor on GitHub](https://github.com/laptrinhcuocsong/todolist-chrome-app-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Power todolist](https://chrome.google.com/webstore/detail/power-todolist/dnedcigokahlombhcaglbgkcpnbbpidm) là một tiện ích dành cho trình duyệt Chrome.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## T
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
