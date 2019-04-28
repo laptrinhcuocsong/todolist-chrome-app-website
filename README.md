@@ -2,7 +2,7 @@
 
 ![todolist](todolist.jpg)
 
-[Power todolist](https://chrome.google.com/webstore/detail/power-todolist/dnedcigokahlombhcaglbgkcpnbbpidm) là một tiện ích to do list mạnh mẽ dành cho trình duyệt Chrome.
+[Power todolist](https://chrome.google.com/webstore/detail/power-todolist/dnedcigokahlombhcaglbgkcpnbbpidm) là một tiện ích to do list mạnh mẽ dành cho trình duyệt Chrome. Chỉ cần 1 click để tạo ra các ghi chú, việc cần làm, quản lý cuộc sống và công việc của bạn.
 
 ## Tính năng:
 
